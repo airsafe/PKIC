@@ -71,7 +71,7 @@ StreetCred Software, Inc., creates software and services that help police agenci
 </ul>
 
 <p><b>Conventions for some StreetCred category variables</b>
-<br>Category variables that typically include two options (eg, yes/no, true/false) plus a "Not Applicable" variable also have a variable for situations where it was not possible, based on sources available to StreetCred PKIC, whether a condition or circumstance was present. </p>
+<br>Category variables that typically include two options (eg, yes/no, true/false) plus a "Not Applicable" option also have an "Unknown" option for situations where it was not possible, based on sources available to StreetCred PKIC, whether a condition or circumstance was present.</p>
 <ul>
 <li>Y – Yes, this condition or circumstance was present.
 <li>N – No, this condition or circumstance was not present.
