@@ -91,6 +91,15 @@ StreetCred Software, Inc., creates software and services that help police agenci
 <li>URL
 </ul>
 
+<p><b>Conventions for some category variables</b>
+<br>Category variables that typically include two options (eg, yes/no, true/false) plus a "Not Applicable" variable also have a variable for situations where it was not possible, based on sources available to StreetCred PKIC, whether a condition or circumstance was present. </p>
+<ul>
+<li>Y – Yes, this condition or circumstance was present.
+<li>N – No, this condition or circumstance was not present.
+<li>U – Unknown.
+<li>NA – Not Applicable. The data does not apply.
+</ul>
+
 <p><b>Variable descriptions</b>
 <br>Last_Name (Text)
 <br>The last (family) name of the decedent.
