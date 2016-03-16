@@ -78,6 +78,9 @@ StreetCred Software, Inc., creates software and services that help police agenci
 <li>Sanctions or changes of employment status of the police officer or officers involved.
 <li>Other relevant information, including witness reports and summaries of media coverage.
 </ul>
+
+
+<h3>Definitions of data variables (Data dictionary)</h3>
 <p><b>Data types</b>
 <br>Data types used in the StreetCred database include:</p>
 <ul>
@@ -85,12 +88,10 @@ StreetCred Software, Inc., creates software and services that help police agenci
 <li>Integer
 <li>Category 
 <li>Time (24-hour clock in the form hh:mm)
-<li>Logical (Yes/No, True/False)
 <li>URL
 </ul>
 
-<p><b>Definitions of data variables</b>
-<br>
+<p><b>Variable descriptions</b>
 <br>Last_Name (Text)
 <br>The last (family) name of the decedent.
 
@@ -327,4 +328,4 @@ The gender of the first officer involved in the incident. This may be quoted fro
 
 <br>Ruled_Justified (Category)
 <br>Has the use of force in this incident been ruled “Justified” by a grand jury, coroner or district or county attorney?
-
+</p>
