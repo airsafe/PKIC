@@ -80,7 +80,7 @@ StreetCred Software, Inc., creates software and services that help police agenci
 </ul>
 
 
-<h3>Definitions of data variables (Data dictionary)</h3>
+<h3>Definitions of database variables (Data dictionary)</h3>
 <p><b>Data types</b>
 <br>Data types used in the StreetCred database include:</p>
 <ul>
